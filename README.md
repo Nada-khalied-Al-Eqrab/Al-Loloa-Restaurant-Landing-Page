@@ -1,5 +1,5 @@
 # Al-Loloa Restaurant
-
+![Project Preview](preview.png)
 A simple responsive restaurant website built using **HTML**, **CSS**, and **JavaScript**.
 
 ## License
