@@ -2,6 +2,9 @@
 
 A simple responsive restaurant website built using **HTML**, **CSS**, and **JavaScript**.
 
+## License
+
+This project is for educational purposes only.
 ## Features
 
 - Responsive design
@@ -25,3 +28,7 @@ This project was developed by **Nada Al-Eaqrab** as a training project for the s
 ## Author
 
 **Nada Al-Eaqrab**
+
+## License
+
+This project is for educational purposes only.
