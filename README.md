@@ -14,6 +14,7 @@ A simple responsive restaurant website built using **HTML**, **CSS**, and **Java
 <td><img src="images/menu_detailes.png" width="100%"></td>
 </tr>
 </table>
+
 ## Features
 
 - Responsive design
